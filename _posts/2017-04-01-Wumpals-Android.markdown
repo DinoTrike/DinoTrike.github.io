@@ -14,4 +14,4 @@ Find all the toys and help Marvin feed the [wumpals-android][Wumpals] with the W
 [wumpals-android][Wumpals] is a search and find, color-matching game.
 
 
-[wumpals-android]: [https://play.google.com/store/apps/details?id=com.dinotrike.wumpalfeeder&hl=en
+[wumpals-android]: https://play.google.com/store/apps/details?id=com.dinotrike.wumpalfeeder&hl=en
