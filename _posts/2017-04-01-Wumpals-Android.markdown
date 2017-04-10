@@ -8,8 +8,8 @@ Welcome to the [Wumptastical][wumpals-android] World of the [Wumpals][wumpals-an
 
 [Wumpals][wumpals-android] are the creatures who live in the [Wumpals][wumpals-android] holes. The [Wumpals][wumpals-android] sleep in the night and only come out of their holes to eat the Star [Wumpal][wumpals-android] Balls. 
 
-Marvin, the [Wumpal][wumpals-android] feeder, has lost all of the Wumpal toys. 
-Find all the toys and help Marvin feed the [Wumpals][wumpals-android] with the Wumpal Feeder Automatic Meter machine.
+Marvin, the [Wumpal][wumpals-android] feeder, has lost all of the [Wumpal][wumpals-android] toys. 
+Find all the toys and help Marvin feed the [Wumpals][wumpals-android] with the [Wumpal][wumpals-android] Feeder Automatic Meter machine.
 
 [Wumpals][wumpals-android] is a search and find, color-matching game.
 
